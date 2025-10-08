@@ -1,7 +1,7 @@
-# Modelagem-para-Oficina-Mec-nica
+# Modelagem-para-Oficina-Mecanica
 
   Modelando um Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica! 
-  Com queries de criação de tabelas utilizando dados fictícios as relacionando!(arquivos no repositório) 
+  Com queries de criação de tabelas utilizando dados fictícios as relacionando!(arquivos de modelagem antes/depois no repositório)
 
 
 
